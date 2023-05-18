@@ -27,7 +27,6 @@ Here are some ideas to get you started:
     <br />
   </samp>
 
-## Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=carinarer&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ####  我是小小颖，一个互联网行业的'废物'打工人🥺
